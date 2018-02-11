@@ -1,0 +1,37 @@
+
+body{
+  font-family: "Helvetica"
+}
+
+.header{
+  background-image: url(/Users/terijester-hamilton/Desktop/Projects/DasmotoArtsCraft/Resources/pattern.jpeg);
+  font-family: "Helvetica", sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center horizontal;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  font-family: "Helvetica"
+}
+
+.brushes{
+  background-color: mediumspringgreen;
+}
+
+.frames{
+  background-color: lightcoral;
+}
+
+.paint{
+  background-color: skyblue;
+}
+.prices{
+  font-family: "Helvetica";
+  font-weight: bold;
+  color: blue;
+}
